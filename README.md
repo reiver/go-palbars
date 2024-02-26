@@ -2,6 +2,8 @@
 
 Package **palbars** provides tools for creating a **palette color bars** visualization for **color palettes**, for the Go programming language.
 
+![](palbars-4e3806-f0a501-eac016-f07400-4e3809.png)
+
 ## Documention
 
 Online documentation, which includes examples, can be found at: http://godoc.org/github.com/reiver/go-palbars
